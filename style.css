@@ -1,0 +1,143 @@
+/***********************************this is navbar***************************************/
+ header nav ul{
+	width:100%
+	margin:0px;
+	padding-bottom:20px;
+	padding-top:20px;
+	padding-left:0px;
+	padding-right:0px; 
+	box-shadow:20px 20px 20px 20px;
+	}
+	li{
+	float:right;
+	font-size:25px;
+	margin-right:50px;
+	color:#fff;
+	}
+	 a{
+	text-decoration:none;
+	color:#000;
+	}
+	a:hover{
+	color:gray;
+	}
+	h4{
+	display:inline;
+	margin-left:30px;
+	font-size:30px;
+	color:blue;
+	}
+/***********************************END NAVBAR***************************************/
+	img{
+	width:100%;
+	height:auto;
+	}
+	h1{
+	font-size:70px;
+	text-align:center;
+	color:black;
+	}
+	p{
+	text-align:center;
+	font-size:20px;
+	}
+ 
+	#gh{
+	width:49%;
+	height:auto;
+	}
+	#gh:hover{
+	background:blue;
+	transition-duration:2s;
+	}
+	#n{	
+	width:49%;
+	height:auto;
+	float:right;
+	}
+	#n:hover{
+	background:blue;
+	transition-duration:2s;
+	}
+	
+	
+	 #endp{
+	  width:100%;
+	  height:auto;
+	  background:gray;
+	  }
+	  footer{
+	  width:100%;
+	  padding-bottom:40px;
+	  background:black;
+	  }
+	  .black{
+	  background:#fff;
+	  width:100%;
+	  height:auto;
+	  }
+	  #photo{
+	  display-inline:block;
+	  width:33%;
+	  height:auto;
+      transform:scale(x,y);
+	  float:left;
+	  }
+	  #photo:hover{
+	  transform:scale(1.1,1.1);
+	  background:pink;
+	  transition-duration:2s;
+	  border-radius:30px;
+	  }
+	  #pho{
+	  float:right;
+	  width:33%;
+	  height:auto;
+      transform:scale(x,y);
+	  
+	  }
+	  #pho:hover{
+	  transform:scale(1.1,1.1);
+	  background:pink;
+	  border-radius:30px;
+	  transition-duration:2s;
+	  }
+	  
+	  
+	  #cho{
+	  float:right;
+	  width:33%;
+	  height:auto;
+      transform:scale(x,y);
+	  
+	  }
+	  #cho:hover{
+	  transform:scale(1.1,1.1);
+	  background:pink;
+	  border-radius:30px;
+	  transition-duration:2s;
+	  }
+	  
+	  #kill{
+		background:#000;
+		width:50%;
+		height:auto;
+		border-radius:30px;
+		opacity:0.6;
+		position:absolute;
+		display:inline;
+		
+		}
+		#sorry{
+		position:relative;
+		float:right;
+		width:49%;
+		height:auto;
+		border-radius:30px;
+		background:pink;
+		}
+		#sorry:hover{
+		background:yellow;
+		transition-duration:2s;
+		}
+/***********************************END***************************************/		

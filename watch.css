@@ -1,0 +1,117 @@
+/***********************************Contact Us***************************************/
+html{
+    background:black;
+    box-sizing:border-box;
+}
+*{
+  box-sizing:inherit;
+}
+body{
+  
+  width:90%;
+  height:auto;
+  max-width: 1000px;
+  margin:50px auto;
+  font-family: Calibri, Arial, sans-serif;
+  padding:20px;
+  background-image:linear-gradient(to right,gray,black);
+}
+/***********************************this is navbar***************************************/
+ nav ul{
+	width:100%;
+	padding-bottom:40px;
+	padding-left:0px;
+	padding-right:0px;
+	
+	}
+	li{
+	float:right;
+	font-size:25px;
+	margin-right:50px;
+	color:gray;
+	text-decoration:none;
+	}
+	 a{
+	text-decoration:none;
+	color:#000;
+	}
+	a:hover{
+	color:#fff;
+	transition-duration:1s;
+	}
+/***********************************END NAVBAR***************************************/
+ #photo{
+	  display-inline:block;
+	  width:33%;
+	  height:auto;
+      
+	  float:left;
+	  }
+	  #photo:hover{
+	  
+	  background:pink;
+	  transition-duration:2s;
+	  border-radius:30px;
+	  }
+	  #pho{
+	  float:right;
+	  width:33%;
+	  height:auto;
+      
+	  
+	  }
+	  #pho:hover{
+	  
+	  background:pink;
+	  border-radius:30px;
+	  transition-duration:2s;
+	  }
+	  
+	  #link{
+		color:#000;
+		text-decoration:none;
+		font-size:40px;
+		
+	  }
+	  #link:hover{
+		color:#fff;
+	  }
+	  
+	  #jeon{
+		color:#000;
+		text-decoration:none;
+		font-size:40px;
+		
+	  }
+	  #jeon:hover{
+		color:#fff;
+	  }
+	  
+	  #kook{
+		color:#000;
+		text-decoration:none;
+		font-size:40px;
+		
+	  }
+	  #kook:hover{
+		color:#fff;
+	  }
+	  
+	  #jung{
+		color:#000;
+		text-decoration:none;
+		font-size:40px;
+		
+	  }
+	  #jung:hover{
+		color:#fff;
+	  }
+	  #jimin{
+		color:#000;
+		text-decoration:none;
+		font-size:40px;
+		
+	  }
+	  #jimin:hover{
+		color:#fff;
+	  }
